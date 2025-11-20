@@ -1,0 +1,7 @@
+telethon
+aiohttp
+flask
+beautifulsoup4
+yt-dlp
+instaloader
+requests
